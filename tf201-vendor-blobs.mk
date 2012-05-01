@@ -157,4 +157,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround41.conf:system/usr/share/alsa/pcm/surround41.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround50.conf:system/usr/share/alsa/pcm/surround50.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround51.conf:system/usr/share/alsa/pcm/surround51.conf \
-    vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf
+    vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
+	vendor/asus/tf201/proprietary/app/BatteryWidget.apk:system/app/BatteryWidget.apk \
+	vendor/asus/tf201/proprietary/app/EmailWidget.apk:system/app/EmailWidget.apk \
+	vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
+	vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
+	vendor/asus/tf201/proprietary/app/Weather.apk:system/app/Weather.apk
