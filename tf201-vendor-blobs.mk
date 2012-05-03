@@ -141,6 +141,7 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/lib/libsensors.base.so:system/lib/libsensors.base.so \
     vendor/asus/tf201/proprietary/lib/libsensors.isl29028.so:system/lib/libsensors.isl29028.so \
     vendor/asus/tf201/proprietary/lib/libsensors.mpl.so:system/lib/libsensors.mpl.so \
+    vendor/asus/tf201/proprietary/lib/libkeyboard_jni.so:system/lib/libkeyboard_jni.so \
     vendor/asus/tf201/proprietary/usr/share/alsa/alsa.conf:system/usr/share/alsa/alsa.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/cards/aliases.conf:system/usr/share/alsa/cards/aliases.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/center_lfe.conf:system/usr/share/alsa/pcm/center_lfe.conf \
@@ -158,8 +159,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround50.conf:system/usr/share/alsa/pcm/surround50.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround51.conf:system/usr/share/alsa/pcm/surround51.conf \
     vendor/asus/tf201/proprietary/usr/share/alsa/pcm/surround71.conf:system/usr/share/alsa/pcm/surround71.conf \
-	vendor/asus/tf201/proprietary/app/BatteryWidget.apk:system/app/BatteryWidget.apk \
-	vendor/asus/tf201/proprietary/app/EmailWidget.apk:system/app/EmailWidget.apk \
-	vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
-	vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
-	vendor/asus/tf201/proprietary/app/Weather.apk:system/app/Weather.apk
+    vendor/asus/tf201/proprietary/app/BatteryWidget.apk:system/app/BatteryWidget.apk \
+    vendor/asus/tf201/proprietary/app/EmailWidget.apk:system/app/EmailWidget.apk \
+    vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
+    vendor/asus/tf201/proprietary/app/MyWater.apk:system/app/MyWater.apk \
+    vendor/asus/tf201/proprietary/app/Weather.apk:system/app/Weather.apk \
+    vendor/asus/tf201/proprietary/app/Keyboard.apk:system/app/Keyboard.apk 
